@@ -1,0 +1,15 @@
+Ecommerce-Purchase-Intent-Logistic-Regression/
+├── data.csv
+├── README.md
+├── requirements.txt
+├── PROJECT_STRUCTURE.txt
+├── Ecommerce_Purchase_Intent_Logistic_Regression.ipynb
+├── src/
+│   └── analysis.py
+└── outputs/
+    ├── confusion_matrix.png
+    ├── roc_curve.png
+    ├── feature_coefficients.png
+    ├── session_minutes_by_target.png
+    ├── coefficient_analysis.csv
+    └── metrics.txt
